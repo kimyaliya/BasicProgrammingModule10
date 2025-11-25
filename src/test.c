@@ -4,6 +4,7 @@ int main() {
     char op;
     float num1, num2, result;
 
+    printf("Calculator");
     printf("Enter an operator (+, -, *, /): ");
     scanf("%c", &op);
 
